@@ -1,6 +1,5 @@
 Image Captioning using Deep Learning
 
-
 This project implements image captioning using deep learning techniques. It generates textual descriptions for images by combining computer vision and natural language processing (NLP). The model utilizes neural networks, specifically LSTM networks, to generate captions based on the visual features extracted from images.
 
 Dataset:
